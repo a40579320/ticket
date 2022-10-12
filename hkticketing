@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  hkticketing
 // @author       Oscar Leung
-// @match        https://queue.hkticketing.com/
+// @include        https://queue.hkticketing.com/
 // @match        
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=uncle7world.com
 // @grant        none
