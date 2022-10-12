@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  hkticketing
 // @author       Oscar Leung
-// @match        https://busy.hkticketing.com/
+// @match        https://queue.hkticketing.com/
 // @match        
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=uncle7world.com
 // @grant        none
@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    location.replace("https://premier.hkticketing.com/default.aspx");// Your code here...
+    location.replace("https://hotshow.hkticketing.com/");// Your code here...
 })();
